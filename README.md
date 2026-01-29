@@ -53,14 +53,10 @@ Predictor de Inversiones: El gráfico de dispersión con el análisis de Gaps.
 ### 👤 Autor: JAIME JESUS ALVARADO PEREZ  
 Licenciado en Informática.  
 Estudiante de último año de Administración de Empresas.  
-Especialista en Ciencia de Datos y Business Intelligence.  
+Especialista en Ciencia de Datos y Business Intelligence.
+
 ### Cómo Replicar el Proyecto
 Clona el repositorio: git clone https://github.com/tu-usuario/NYC-Real-Estate-Predictor.git
 Instala dependencias: pip install -r requirements.txt
 Ejecuta el notebook en /notebooks para generar la base de datos SQL.
 Abre el archivo en /reports con Power BI Desktop.  
-### ¿Cómo guardarlo?
-Crea un archivo nuevo en tu carpeta raíz llamado README.md.
-Pega este contenido.
-Personaliza tu nombre y el enlace de GitHub al final.
-Súbelo junto con tus archivos.
