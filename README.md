@@ -46,7 +46,7 @@ Implementación de un "Semáforo de Inversión" mediante formato condicional par
 requirements.txt: Librerías necesarias para replicar el entorno.  
 ### 📊 Visualización de Resultados
 <img width="1922" height="1079" alt="image" src="https://github.com/user-attachments/assets/6322677a-28b6-481c-8fbf-0a200e4a5907" />
-<img width="1923" height="1073" alt="image" src="https://github.com/user-attachments/assets/a230b925-ab5d-4969-bdd5-a67fa04331b0" />
+<img width="1923" height="1073" alt="image" src="https://github.com/user-attachments/assets/a230b925-ab5d-4969-bdd5-a67fa04331b0" />  
 Vista General de Ventas: Tendencias y mapas.
 Predictor de Inversiones: El gráfico de dispersión con el análisis de Gaps.  
 ### 👤 Autor: JAIME JESUS ALVARADO PEREZ  
